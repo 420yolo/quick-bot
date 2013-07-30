@@ -1,7 +1,7 @@
 //Director Names (only one's able to issue commands)
 UNSET(&operator[]);
 UNSET(&name[]);
-&operator[0] = "Pitviper";
+&operator[0] = "iFamous";
 &operator[1] = "ImAlphaMale";
 &operator[2] = "Mavreckjc";
 &operator[3] = "Swagreck";
@@ -9,7 +9,7 @@ UNSET(&name[]);
 &operator[5] = "BananaBacon";
 &operator[6] = "PyschoDonut";
 &operator[7] = "quicktime115";
-&operator[8] = "iFamous";
+&operator[8] = "Pitviper";
 
 //What this bot identifies as. You can group multiple
 //bots if you set them to the same name. 
